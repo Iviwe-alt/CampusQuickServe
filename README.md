@@ -11,3 +11,4 @@ Features implemented:
 
 Challenges encountered:
 Understanding how to structure the Order class and implementing the discount calculation.
+//Added order validation
